@@ -26,7 +26,7 @@ Este proyecto es un análisis personal de mis hábitos de escucha en Spotify. Us
 
 ## 🖼 Captura del dashboard
 
-![Dashboard Power BI](powerbi/dashboard.png)
+-- (Añadir captura)
 
 ## 📌 Conclusión
 
