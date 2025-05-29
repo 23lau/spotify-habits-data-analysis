@@ -12,7 +12,7 @@ Este proyecto es un análisis personal de mis hábitos de escucha en Spotify. Us
 
 ## 📊 Análisis realizado
 
-- Canciones y artistas más escuchados
+- Canciones y artistas que más he escuchado
 - Horas y días con mayor actividad musical
 - Tendencias mensuales
 - Visualización de datos con Power BI
